@@ -1,6 +1,6 @@
-package javacore.introducao_classes.dominio;
+package javacore.Aintroducao_classes.dominio;
 
-public class Estudante {
+public class Professor {
     public String nome;
     public int idade;
     public char sexo;
