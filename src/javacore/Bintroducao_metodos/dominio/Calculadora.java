@@ -1,0 +1,7 @@
+package javacore.Bintroducao_metodos.dominio;
+
+public class Calculadora {
+    public void somaDoisNumeros() {
+        System.out.println(10 + 10);
+    }
+}
