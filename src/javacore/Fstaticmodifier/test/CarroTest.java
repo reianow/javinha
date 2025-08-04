@@ -4,7 +4,8 @@ import javacore.Fstaticmodifier.domain.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {
-        Carro.velocidadeLimite = 180;
+        Carro.setVelocidadeLimite(180);
+
         Carro carro1 = new Carro("BMW", 260);
         Carro carro2 = new Carro("Porsche", 280);
         Carro carro3 = new Carro("Ferrari", 300);
