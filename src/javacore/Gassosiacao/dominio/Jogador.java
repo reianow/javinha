@@ -1,6 +1,6 @@
 package javacore.Gassosiacao.dominio;
 
-//Associação de muitos jogadores pra um time
+//Associação de um time pra muitos jogadores
 
 public class Jogador {
     private String nome;
